@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Project Demo](proj6.gif)
+![Project Demo](Proj6.gif)
 
 ## Notes
 
